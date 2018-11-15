@@ -1,2 +1,2 @@
-# Projects
-Collection of previous projects
+# Active Projects
+Collection of current projects
